@@ -1,0 +1,186 @@
+
+/* Start Header CSS */
+body{
+    font-family: 'Varela', sans-serif;;
+    color: #6A6A6A;
+}
+.header_area{
+    background: url(img/txt2.jpg) no-repeat fixed center center / cover;
+}
+.navbar-brand i{
+    font-size: 40px;
+}
+.navbar-brand i:hover{
+    color: pink;
+}
+.navbar-default{
+    background: none;
+    border: none;
+}
+.navbar-default .navbar-brand{
+    color: #fff;
+}
+.navbar{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar-collapse{
+    padding: 10px 0px;
+}
+.navbar-header > a{
+    font-size: 23px;
+color: #FFF;
+}
+#navbar .header_nav li a{
+    color: #fff;
+    font-size: 14px;
+    font-weight: 900;
+}
+#navbar .header_nav li a span{
+    background: #FCE704 none repeat scroll 0% 0%;
+    color: #000;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+.header_text{
+    text-align: center;
+    padding: 100px 0px;
+}
+.header_text h1{
+    color: #fff;
+    font-weight: 900;
+}
+.header_text p{
+    color: #fff;
+    font-size: 25px;
+}
+.header_text button{
+    padding: 15px 35px;
+    font-weight: 300;
+    font-size: 20px;
+    margin: 120px 0px 0px 0px
+}
+.header_text button:hover{
+    background: #6DA0D8;
+}
+
+
+
+
+/* Start How Its work */
+
+.work_area{
+    text-align: center;
+    padding: 30px 0px;
+}
+.work_area h1, .presentation_area h1{
+    text-align: center;
+    color: #FD6661;
+    font-size: 54px;
+    font-weight: 300;
+    border-bottom: 1px solid #FEBDBB;
+    padding: 12px;
+}
+.work_process p{
+    font-size: 20px;
+    padding: 25px 0px;
+    line-height: 1.42857;
+}
+.work_process a{
+    font-size: 20px;
+    color: #FD6661;
+}
+.work_process a:hover{
+    text-decoration: none;
+}
+.work_process h3{
+    font-size: 16px;
+    font-weight: 900;
+    margin: 35px 0px 0px 0px;
+    color: #000;
+}
+
+
+/* Start Features CSS */
+
+.features_area{
+    padding: 30px 0px 0px 0px;
+}
+.features_area p{
+    font-family: "lato",arial,sans-serif;
+    font-size: 20px;
+    line-height: 31px;
+    color: #575454;
+    text-rendering: optimizelegibility;
+    text-align: justify;
+}
+.features_area h2{
+    font-size: 35px;
+    line-height: 45px;
+    font-family: varela;
+    color: #444C54;
+    font-weight: bold;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+}
+
+
+
+/* Start Footer CSS */
+
+.footer_area{
+    padding: 30px 0px 0px 0px;
+    background: #EDEDED;
+}
+.footer_area h3{
+    text-transform: uppercase;
+    font-weight: 900;
+    margin: 20px 0px 35px;
+    color: #337AB7;
+}
+.footer_left ul li, .footer_middle ul li{
+    padding: 5px 0px;
+}
+.footer_left ul li a, .footer_middle ul li a{
+    color: #000;
+}
+.width{
+    width: 170%;
+}
+.payment_area ul li{
+    padding: 0px 10px;
+}
+.subscribe_button{
+    padding: 6px 50px;
+}
+.social_icon ul li{
+    padding: 0px 15px 0px 5px;
+}
+.social_icon ul li a{
+    color: #575757;
+font-size: 35px;
+}
+.social_icon ul li a:hover{
+    color: #c3c3c3;
+}
+
+.footer_bottom{
+    background: #DDD none repeat scroll 0% 0%;
+    text-align: center;
+    padding: 25px 0px 10px 0px;
+    color: #000;
+    margin: 30px 0px 0px 0px;
+}
+header_area {
+    height:100%;
+}
+header {
+    background:orange;
+}
+
+.lower-opacity {
+    background: url(img/txt2_black.jpg)no-repeat fixed center center / cover ;
+    h1{
+        color: red;
+    }
+}
